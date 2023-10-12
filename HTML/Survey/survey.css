@@ -1,0 +1,114 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+input[type="radio"] {
+    margin: 2px 5px 0 0;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+select,
+input[type="date"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.confirmation {
+    display: none;
+    background-color: #e6f7e8;
+    border: 1px solid #5fad5f;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+input[type="button"] {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: #2e86c1;
+}
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    text-align: left;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+input[type="radio"] {
+    margin: 2px 5px 0 0;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+select,
+input[type="date"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.confirmation {
+    display: none;
+    background-color: #e6f7e8;
+    border: 1px solid #5fad5f;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+input[type="button"] {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: #2e86c1;
+}
